@@ -1,1 +1,2 @@
-
+The Password Generator has a graphical interface using the Tkinter library.
+It works by taking input from the user for the requirement of Letters, Numbers, and Symbols, then randomly picks the desired number of parameters and shuffles the picked values, then merges them and displays the generated password on the screen, and a bonus is that the user can copy the generated password to their clipboard, the pyperclip library was used for this function. 
